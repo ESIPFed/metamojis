@@ -38,6 +38,7 @@ Metadata indicators related to data quality
 | Sensitive Data     | 🤐    |
 | Below Detection    | 🔬    |
 | Above Detection    | 🔭    |
+| Noise              | 🎸    |
 | Outlier            | 🛸    |
 | Spike              | 🦔    |
 | Sensor drift       | 🎈    |
