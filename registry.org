@@ -44,6 +44,7 @@ Metadata indicators related to data quality
 | Sensor drift       | 🎈    |
 | Frozen value       | 🍦    |
 | Impossible value   | 🦄    |
+| Error introduced during QAQC | 🐛|
 |--------------------|-------|
 
 ** Transformative processes
