@@ -69,11 +69,12 @@ Metadata related to processes that do not change the data
 |------------------------|-------|
 
 ** Pending actions
-Actions to be completed in the future
+Actions that are currently in progress, or will be completed in the future
 
 |-------------------|-------|
 | Description       | Emoji |
 |-------------------|-------|
+| QAQC in progress  | 🔨    |
 | To be categorized | 🗃    |
 | To be archived    | 🗄    |
 | To be deleted     | 🗑    |
